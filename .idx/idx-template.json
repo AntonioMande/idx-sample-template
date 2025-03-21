@@ -1,0 +1,6 @@
+{
+    "name": "Hello world",
+    "description": "A template for a CLI program that prints 'hello world'",
+    "icon": "https://gist.githubusercontent.com/AntonioMande/55cb561ed1e580f22a7720a97b549556/raw/8dc77bbb7ed0e723768ba65c5bffc3420c8759d8/xss.svg",
+    "params": []
+}
